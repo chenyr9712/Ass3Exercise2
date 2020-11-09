@@ -9,4 +9,5 @@ The second frame GraphView shows a simple “bar graph” - 3 rectangles next to
 Rectangles should have different colors with height proportional to their values in the first
 frame.
 
-Here is the run 
+Here is the snapshot of your running program 
+![image]()
