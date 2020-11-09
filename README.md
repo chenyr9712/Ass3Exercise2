@@ -10,4 +10,4 @@ Rectangles should have different colors with height proportional to their values
 frame.
 
 Here is the snapshot of your running program 
-![image]()
+![image](https://github.com/chenyr9712/Ass3Exercise2/blob/main/snapshot/snapshot.jpg)
